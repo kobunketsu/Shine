@@ -53,3 +53,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+include:
+  - docs
+  - "*.html"
+  - "*.css"
+  - "*.js"

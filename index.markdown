@@ -4,3 +4,5 @@
 
 layout: home
 ---
+[查看文档]({{ site.baseurl }}/docs/index.html)
+<!-- [查看文档](./index.html) -->
